@@ -1,0 +1,5 @@
+﻿  main.c
+D:\자료\개인 자료\외주\신규양식\[20210616-진행중] 박세영 (45,000) (직)\Project\Project\main.c(156,16): warning C4013: 'IsEmpty'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\자료\개인 자료\외주\신규양식\[20210616-진행중] 박세영 (45,000) (직)\Project\Project\main.c(78): warning C4715: 'PopStackQueue': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\자료\개인 자료\외주\신규양식\[20210616-진행중] 박세영 (45,000) (직)\Project\Project\main.c(84): warning C4716: 'CreateStringNode': 값을 반환해야 합니다.
+  Project.vcxproj -> D:\자료\개인 자료\외주\신규양식\[20210616-진행중] 박세영 (45,000) (직)\Project\Debug\Project.exe
